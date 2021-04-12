@@ -1,2 +1,3 @@
 # EXPLORE
-General repository for EXPLORE
+General repository for EXPLORE python tutorials
+
